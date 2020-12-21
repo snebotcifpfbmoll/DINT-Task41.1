@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task41.1</string>
+    <string name="edit_text_hint">Enter a message</string>
+    <string name="show">Show</string>
+</resources>

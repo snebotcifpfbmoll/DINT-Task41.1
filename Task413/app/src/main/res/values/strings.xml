@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task41.3</string>
+    <string name="date_time">Choose the date and time:</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="tap_alert_label">Tap to test alert:</string>
+    <string name="alert">Alert</string>
+</resources>

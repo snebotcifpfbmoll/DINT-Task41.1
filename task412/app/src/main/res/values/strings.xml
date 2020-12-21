@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">task41.2</string>
+    <string name="edit_text_hint">Enter a phone number</string>
+    <string name="show">Show</string>
+    <string-array name="phone_numbers">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
