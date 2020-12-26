@@ -21,8 +21,6 @@
         android:padding="@dimen/padding_regular"
         android:text="@string/choose_a_dessert" />
 
-    <group
-
     <ImageView
         android:id="@+id/donut"
         android:layout_width="wrap_content"
